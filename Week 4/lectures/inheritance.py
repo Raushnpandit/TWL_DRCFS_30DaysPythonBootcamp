@@ -26,5 +26,5 @@ class Dog(Animal):
         self.name
 
 
-kalu = Animal('kalu', 5, 'DOG'|
+kalu = Animal('kalu', 5|
 print|kalu) 
